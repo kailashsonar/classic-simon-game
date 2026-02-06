@@ -6,7 +6,7 @@ The game tests the player's memory by generating an increasing sequence of color
 ---
 
 ## 🚀 Live Demo
-
+https://mindtapper.netlify.app
 
 ---
 
@@ -41,4 +41,5 @@ The game tests the player's memory by generating an increasing sequence of color
 - Arrays for game & user sequences
 - Timing functions (`setTimeout`)
 - State management using variables
+
 
