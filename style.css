@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+.lvl-heading{
+    display: flex;
+    margin: 20px 0;
+}
+.maindiv{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+.clickdiv{
+    height: 150px; 
+    width: 150px;
+    border: 10px solid black;
+    border-radius: 10%;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.flashU{
+    border-color: white !important;
+}
+.flashC{
+    background-color: black !important;
+}
